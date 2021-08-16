@@ -1,2 +1,3 @@
-# cesr
-Composable Event Streaming Representation
+# Composable Event Streaming Representation (CESR)
+
+
